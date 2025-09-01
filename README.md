@@ -32,5 +32,8 @@ Boxicons: Provides clean and scalable icons used throughout the site.
 # Setup
 To run this project locally, you can simply open the index.html file in your web browser. There is no server-side setup required.
 
+# Github pages deployment
+https://mukherjeeshrestha.github.io/PRODIGY_WD_04/
+
 # Connect with Me
 You can find my contact information and professional links in the contact section of the website. I'm always open to new opportunities and collaborations!
