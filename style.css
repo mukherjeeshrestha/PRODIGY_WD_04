@@ -110,11 +110,10 @@ body {
   line-height: 1.5;
 }
 .project-container img {
-  width: 500px;
+  width: 100%;
 }
 
 .project-container img:hover {
-  width: 500px;
   transition: transform 0.5s ease, box-shadow 0.2s ease;
   transform: translateY(-5px);
 }
@@ -130,7 +129,7 @@ body {
   transform: translateY(-5px);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
-.project-container,
+
 .skill-container,
 .service-container {
   width: 75% !important;
